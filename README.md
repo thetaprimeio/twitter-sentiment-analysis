@@ -29,11 +29,6 @@ import seaborn
 * [Analytics Vidhya Twitter Sentiment Analysis Challenge](https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/)
 * [Analytics Vidhya Comprehensive Hands on Guide to Twitter Sentiment Analysis](https://www.analyticsvidhya.com/blog/2018/07/hands-on-sentiment-analysis-dataset-python/)
 
-
-## Contact information 
-
-For any communication relating to this project, please email us at contact@thetaprime.io.
-
 [ThetaPrimo.IO]: https://thetaprime.io	"ThetaPrime.IO"
 
 ![](thetaprime_shape.png)
